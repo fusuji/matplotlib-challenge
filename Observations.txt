@@ -1,0 +1,11 @@
+Three Observations and Insights about the Data
+
+1) Ceftamin has the more extreme potential outliers, according to the box plot 
+created, when calculating for tumor_volume in mice for the particular drug. 
+
+2) Based on the data from mouse l509, tumor volume ultimately decreases as time 
+goes by for mice particpating in the Capomulin treatment.
+
+3) According to the data provided for capomulin regimen, there is a positive 
+correlation between the weight of the mouse and the average tumor volume contained
+in the mouse.
